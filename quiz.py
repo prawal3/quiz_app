@@ -4,12 +4,12 @@ import time
 questions = [
     ("who is the first crewmate of luffy?", ["a) nami", "b) zoro", "c) ussop", "d) sanji"], "b"),
     ("who is shaktiman?", ["a) shivadhar", "b) shanidhar", "c) gangadhar", "d) lucky"], "c"),
-    ("what is the caste of naruto?", ["a) uzumaki", "b) shippuden", "c) uchiha", "d) ninja"], "a"),
+    ("what is the surname/last-name of naruto?", ["a) uzumaki", "b) shippuden", "c) uchiha", "d) ninja"], "a"),
     ("what is the name of luffy devil fruit'?", ["a) goro goro no mi", "b) hana hana no mi", "c) hito hito no mi", "d) gomu gomu no mi"], "d"),
     ("who is the leader of akatsuki?", ["a) konan", "b) nagato", "c) obito", "d) madara"], "b"),
-    ("what is the name of the villian in death note", ["a) light", "b) L", "c) shinigami", "d) zoro"], "a"),
-    ("how do you say pizza in french", ["a) Le Pizza", "b) La Pizza", "c)L'Pizza ", "d) Li Pizza"], "b"),
-    ("What is the name of iron man?", ["a)Edward Tony stark", "b)Anthony Edward stark ", "c)Haward stark", "d) robbert downry junior"], "b")
+    ("what is the name of the villan in death note", ["a) light", "b) L", "c) shinigami", "d) zoro"], "a"),
+    ("how do you say "the pizza" in french", ["a) Le Pizza", "b) La Pizza", "c)L'Pizza ", "d) Li Pizza"], "b"),
+    ("What is the real name of alias iron man?", ["a)Edward Tony stark", "b)Anthony Edward stark ", "c)Haward stark", "d) robbert downry junior"], "b")
 ]
 
 # Initialize score
@@ -45,3 +45,4 @@ def run_quiz():
 
 # Run the quiz
 run_quiz()
+
